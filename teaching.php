@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Nasim Imtiaz Khan || Doctoral Student</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<?php include ('header.php'); ?>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										
+									</header>
+
+									<h2 align="center">Teaching</h2>
+									<p>
+                                    <font size="5"><b>Spring 2017:</b></font>
+                                    <ul>
+                                          <li>Teaching assistant for Circuits and Devices (EE 210) at Penn State, USA.</li>
+                                    
+                                    </ul>
+                                    </p>
+									
+
+									
+									<p>
+                                    <font size="5"><b>Fall 2016:</b></font>
+                                    <ul>
+                                    	<li>Teaching assistant for Circuits and Devices (EE 210) at Penn State, USA.</li>
+                              
+                                    </ul></p>
+									
+
+									
+                                    
+                                    <p>
+                                    <font size="5"><b>Fall 2015:</b></font>
+                                    <ul>
+                                    	<li>Course Instructor for Microprocessor and Interfacing (EE 323) at DIU, Bangladesh. </li>
+                              
+                                    </ul></p>
+									
+
+									
+                                    
+                                    <p>
+                                    <font size="5"><b>Summer 2015:</b></font>
+                                    <ul>
+                                    	<li>Course Instructor for Microprocessor and Interfacing (EE 323) at DIU, Bangladesh.  </li>
+                              
+                                    </ul></p>
+									
+
+																
+							
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<?php include ('sidebar.php'); ?>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

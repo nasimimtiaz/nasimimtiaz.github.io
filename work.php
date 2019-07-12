@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Nasim Imtiaz Khan || Doctoral Student</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<?php include ('header.php'); ?>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										
+									</header>
+
+									<h2 align="center">Work and Education</h2>
+									<p>
+                                    <font size="5"><b>Work Experience:</b></font>
+                                    <ul>
+                                          <li style="text-align:justify"><b>Research Assistant,</b> School of Electrical Engineering and Computer Science, <a href="http://www.eecs.psu.edu/" target="_blank">PSU</a> (August 2016- Present)</li>
+                                        <li style="text-align:justify"><b>Research Assistant,</b> Department of Computer Science and Engineering, <a href="http://www.usf.edu/engineering/cse/">USF</a> (January 2016 – August 2016)</li>
+                                        <li style="text-align:justify"><b>Lecturer,</b> Electrical and Electronic Engineering, <a href="http://eee.daffodilvarsity.edu.bd/" target="_blank">DIU</a> (June 2015- December 2015)</li>
+                                        <li style="text-align:justify"><b>Associate Maintenance Professional,</b> <a href="http://www.halliburton.com/en-US/default.page" target="_blank">Halliburton Int. Inc.</a>, Bangladesh (September 2014-June 2015)</li>
+                                        <li style="text-align:justify"><b>Intern,</b> Samsung R&D Institute Bangladesh – SRBD (October 2013- January 2014)</li>
+
+                                    
+                                    </ul>
+                                    </p>
+									
+
+									
+									<p>
+                                    <font size="5"><b>Education:</b></font>
+                                    <ul>
+                                    	<li><b>Ph.D.</b> in Electrical Engineering, Pennsylvania State University, (Fall 2016-current). </li>
+                                        <li><b>Ph.D.</b> in Computer Science & Engineering, University of South Florida, (Spring 2016 – Fall 2016), GPA of 4.0/4.0. (transfer)</li>
+                                        <li><b>B.Sc.</b> in Electrical Electronic Engineering, Bangladesh University of Engineering and Technology, (June 2014), GPA 3.85/4.00.</li>
+                              
+                                    </ul></p>
+									
+
+																	
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<?php include ('sidebar.php'); ?>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

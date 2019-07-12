@@ -1,0 +1,11 @@
+<header id="header">
+    <h1>Nasim Imtiaz Khan</h1>
+    <link rel="stylesheet" href="css/academicons.css"/>
+    
+    <ul class="icons">
+        <li><a href="https://scholar.google.com/citations?user=D7ic7hMAAAAJ&hl=en" target="_blank" class="ai ai-google-scholar-square ai-3x"><span class="label"></span></a></li>
+        <li><a href="https://www.researchgate.net/profile/Mohammad_Nasim_Imtiaz_Khan" class="ai ai-researchgate-square ai-3x"><span class="label"></span></a></li>
+        <li><a href="https://www.linkedin.com/in/md-nasim-imtiaz-khan-9889a079" class="fa fa-linkedin-square fa-3x"><span class="label"></span></a></li>
+       
+    </ul>
+</header>

@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Nasim Imtiaz Khan || PHD Student</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<?php include ('header.php'); ?>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										
+									</header>									
+
+									<h2 align="center">Projects</h2>
+
+
+<p>
+ <font size="5"><b>Research Projects:</b></font>
+<ul>
+                                    	<li style="text-align:justify"><b>Side Channel analysis of emerging memroy technology:  	</b> In this project I am investigating side channel leakage (data dependent signature) which can be expoited to lauch attack and retrieve secret key.</li>
+                                    	<li style="text-align:justify"><b>Attack resilient architecture to replace embedded Flash with STTRAM in homogeneous IoTs:</b> In this project I am investigating information redundancy present in a homogeneous peer-to-peer connected IoT network which can be exploited to restore the corrupted memory of any IoT node after a magnetic attack. </li>
+                                    	<li style="text-align:justify"><b>Test Characterization of Non-Volatile Memory:</b> In this project, I proposed novel magnetic burn-in test which can be implemented with minimal changes in the existing test flow to enable STTRAM retention testing at short test time. </li>
+                                        <li style="text-align:justify"><b>Nano-Shielding STTRAM using Mu-Metal from Magnetic Field Attack:</b> In this project, I proposed a low-overhead solution for protection against magnetic field attack which exploits structure of STTRAM tape layout to bypass the magnetic flux through mu-metal. </li>
+                                        <li style="text-align:justify"><b>Multi-Bit Read and Write Methodologies for Crossbar Array:</b> In this project, I proposed a technique to perform multi-bit read and write in a diode-STTRAM crossbar array.</li>
+                                        <li style="text-align:justify"><b>Novel Non-Volatile Memory (NVM) based device for efficient computation:</b> In this project, I am investigating a novel NVM device that can be used for addition, multiplication, sorting, etc. in an energy-efficient way compared to CMOS.</li>
+                                   </ul>
+									
+									
+									
+									
+<p>
+ <font size="5"><b>Class Projects:</b></font>
+<ul>
+<li style="text-align:justify">Circuit and layout design of ECG/EKG signal dector and counter with emerging technology.</li>
+<li style="text-align:justify">Design and implementation of a Heart Beat Counter - Sensing blood rush in vein using phototransistor, signal processing to calculate beat per minute (BPM).</li>
+<li style="text-align:justify">Design circuit and layout of n-bit comparator using Cadence Virtuoso software. </li>
+<li style="text-align:justify">Design and simulation of a 8-bit Micro-computer - Able to perform 16 mathematical operation.</li>
+<li style="text-align:justify">Design and implementation of hardware based ‘Breakout’ using Basic latch-gate.</li>
+<li style="text-align:justify">Analysis of Acoustic Characteristics of a class room- Attenuation profile, delay profile, reverberation characteristics and noise level. </li>
+<li style="text-align:justify">Design of a Chess Playing Robot with Artificial Intelligence.</li>
+<li style="text-align:justify">Designed and implemented Object Detecting Voice Controlled Robot and Maze solving Robot.</li>
+<li style="text-align:justify">Design and implementation of Autonomous Mining Robot- Can dig and carry up to 66 lbs. lunar regolith.</li>
+</ul>
+
+									<hr class="major" />
+
+									
+
+								
+
+									
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<?php
+						include ('sidebar.php');
+					?>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
