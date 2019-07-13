@@ -20,7 +20,8 @@
 						<div class="inner">
 
 							<!-- Header -->
-								<?php include ('header.php'); ?>
+								<header id="header">
+									</header>
 
 							<!-- Content -->
 								<section>
@@ -73,9 +74,8 @@
 					</div>
 
 				<!-- Sidebar -->
-					<?php
-						include ('sidebar.php');
-					?>
+					<<div id="sidebar">
+				</div>
 
 			</div>
 
@@ -85,6 +85,11 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+		
+	<script>
+		$("#sidebar").load("sidebar.html");
+		$("#header").load("header.html");
+	</script>
 
 	</body>
 </html>
